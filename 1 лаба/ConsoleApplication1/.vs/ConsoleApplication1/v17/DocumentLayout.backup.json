@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0446\u0438\u044F\\1 \u043B\u0430\u0431\u0430\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A291391-7A47-4B07-AF5F-0CC4A0AF60DE}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0446\u0438\u044F\\1 \u043B\u0430\u0431\u0430\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A291391-7A47-4B07-AF5F-0CC4A0AF60DE}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A291391-7A47-4B07-AF5F-0CC4A0AF60DE}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\PROFESSIONAL\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\__MSVC_FORMAT_UCD_TABLES.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "__msvc_format_ucd_tables.hpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_format_ucd_tables.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_format_ucd_tables.hpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_format_ucd_tables.hpp",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_format_ucd_tables.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T17:40:24.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0446\u0438\u044F\\1 \u043B\u0430\u0431\u0430\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0446\u0438\u044F\\1 \u043B\u0430\u0431\u0430\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T17:04:20.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
